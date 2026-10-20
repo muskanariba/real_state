@@ -1,0 +1,451 @@
+id,city,neighbourhood,property_type,area_sqft,bedrooms,bathrooms,age,price,description
+P001,Islamabad,Bahria Enclave,House,600,2,2,7,9500000,Sample home with parking and a bright living area.
+P002,Islamabad,G-11,House,4200,6,5,0,69400000,Sample home near a park and local shops.
+P003,Karachi,Clifton,House,4000,5,6,20,51200000,Sample home with parking and a bright living area.
+P004,Lahore,Model Town,House,1500,3,3,10,15100000,Sample home near a park and local shops.
+P005,Karachi,Clifton,Apartment,1100,1,1,3,10100000,Sample home near a park and local shops.
+P006,Islamabad,Bahria Enclave,Apartment,3900,5,5,2,48200000,Sample home with a balcony and nearby school.
+P007,Islamabad,F-10,Apartment,4100,5,6,2,50700000,Sample home near a park and local shops.
+P008,Karachi,Clifton,House,2900,4,4,20,36800000,Sample home near a park and local shops.
+P009,Lahore,Bahria Town,Apartment,1800,4,4,22,14800000,Sample home with parking and a bright living area.
+P010,Karachi,North Nazimabad,House,1500,2,2,8,18600000,Sample home with parking and a bright living area.
+P011,Islamabad,F-10,House,4800,6,5,7,76300000,Sample home with a balcony and nearby school.
+P012,Karachi,North Nazimabad,House,4100,6,6,6,54000000,Sample home with a balcony and nearby school.
+P013,Lahore,Bahria Town,Apartment,1400,2,1,7,11100000,Sample home with parking and a bright living area.
+P014,Lahore,Model Town,Apartment,2800,3,2,16,19900000,Sample home near a park and local shops.
+P015,Karachi,Clifton,House,1400,3,2,25,14700000,Sample home with a balcony and nearby school.
+P016,Islamabad,G-11,Apartment,3800,5,6,27,40500000,Sample home with parking and a bright living area.
+P017,Islamabad,F-10,House,4800,6,6,24,72100000,Sample home near a park and local shops.
+P018,Lahore,Johar Town,House,2100,4,3,16,21600000,Sample home with parking and a bright living area.
+P019,Lahore,Johar Town,House,1400,2,1,17,15600000,Sample home with parking and a bright living area.
+P020,Lahore,Model Town,Apartment,600,1,1,28,2000000,Sample home near a park and local shops.
+P021,Karachi,North Nazimabad,House,4100,5,4,23,51500000,Sample home near a park and local shops.
+P022,Karachi,North Nazimabad,Apartment,4000,5,5,16,39300000,Sample home with a balcony and nearby school.
+P023,Karachi,North Nazimabad,House,5000,6,6,21,64100000,Sample home with a balcony and nearby school.
+P024,Karachi,North Nazimabad,House,1900,2,2,0,24800000,Sample home with parking and a bright living area.
+P025,Karachi,Gulshan,House,500,1,2,20,4200000,Sample home with a balcony and nearby school.
+P026,Karachi,North Nazimabad,House,2200,4,4,6,30200000,Sample home near a park and local shops.
+P027,Islamabad,F-10,Apartment,2000,3,3,6,25200000,Sample home with a balcony and nearby school.
+P028,Lahore,Johar Town,Apartment,800,2,3,20,5400000,Sample home near a park and local shops.
+P029,Lahore,Johar Town,Apartment,1100,1,1,6,7800000,Sample home with a balcony and nearby school.
+P030,Lahore,Johar Town,House,900,1,2,3,9800000,Sample home with parking and a bright living area.
+P031,Islamabad,F-10,House,1000,1,1,13,12700000,Sample home near a park and local shops.
+P032,Karachi,Clifton,Apartment,500,1,1,29,2000000,Sample home with a balcony and nearby school.
+P033,Lahore,Bahria Town,Apartment,1400,1,1,6,12300000,Sample home near a park and local shops.
+P034,Islamabad,Bahria Enclave,Apartment,800,1,2,15,7000000,Sample home with parking and a bright living area.
+P035,Karachi,Gulshan,House,3700,4,3,2,48400000,Sample home with a balcony and nearby school.
+P036,Karachi,Gulshan,House,4200,6,5,19,53700000,Sample home with a balcony and nearby school.
+P037,Islamabad,G-11,Apartment,2100,2,3,22,21100000,Sample home with parking and a bright living area.
+P038,Islamabad,F-10,Apartment,3400,5,4,0,42700000,Sample home with parking and a bright living area.
+P039,Islamabad,G-11,House,900,2,1,16,11700000,Sample home near a park and local shops.
+P040,Lahore,Model Town,Apartment,1500,2,3,22,12400000,Sample home with parking and a bright living area.
+P041,Islamabad,G-11,House,4700,6,6,29,68600000,Sample home with a balcony and nearby school.
+P042,Karachi,North Nazimabad,House,4000,5,5,9,51000000,Sample home near a park and local shops.
+P043,Islamabad,G-11,Apartment,1800,4,5,27,18400000,Sample home near a park and local shops.
+P044,Islamabad,G-11,Apartment,2200,2,1,10,25700000,Sample home with parking and a bright living area.
+P045,Lahore,Bahria Town,House,3300,6,6,13,36400000,Sample home near a park and local shops.
+P046,Islamabad,F-10,House,2800,5,6,4,45100000,Sample home near a park and local shops.
+P047,Karachi,Clifton,Apartment,2800,3,3,6,27300000,Sample home with parking and a bright living area.
+P048,Lahore,Model Town,House,2000,2,1,28,15800000,Sample home near a park and local shops.
+P049,Karachi,North Nazimabad,Apartment,3100,5,6,25,29200000,Sample home near a park and local shops.
+P050,Lahore,Model Town,House,3500,4,3,26,35900000,Sample home with a balcony and nearby school.
+P051,Lahore,Johar Town,House,1900,2,3,6,20000000,Sample home with a balcony and nearby school.
+P052,Lahore,Johar Town,Apartment,4800,6,6,30,37700000,Sample home near a park and local shops.
+P053,Lahore,Model Town,House,4200,6,5,3,47200000,Sample home with a balcony and nearby school.
+P054,Islamabad,G-11,House,2900,5,4,8,45100000,Sample home with parking and a bright living area.
+P055,Lahore,Johar Town,House,3800,6,6,23,42300000,Sample home with a balcony and nearby school.
+P056,Lahore,Bahria Town,House,4700,6,6,10,51700000,Sample home near a park and local shops.
+P057,Islamabad,Bahria Enclave,Apartment,3700,5,6,13,42500000,Sample home near a park and local shops.
+P058,Karachi,Gulshan,Apartment,4700,6,6,23,47100000,Sample home with parking and a bright living area.
+P059,Islamabad,Bahria Enclave,Apartment,3000,5,4,9,35400000,Sample home with parking and a bright living area.
+P060,Islamabad,G-11,Apartment,3400,5,5,21,39500000,Sample home with parking and a bright living area.
+P061,Lahore,Johar Town,House,4700,6,6,16,50500000,Sample home near a park and local shops.
+P062,Islamabad,G-11,Apartment,1900,2,1,0,21300000,Sample home near a park and local shops.
+P063,Lahore,Model Town,House,3400,5,6,18,37300000,Sample home with a balcony and nearby school.
+P064,Karachi,Gulshan,House,4600,6,5,28,59900000,Sample home with a balcony and nearby school.
+P065,Karachi,Gulshan,House,4900,6,6,1,64600000,Sample home with a balcony and nearby school.
+P066,Karachi,Clifton,Apartment,4700,6,6,19,45200000,Sample home with a balcony and nearby school.
+P067,Islamabad,G-11,Apartment,4000,6,5,23,46100000,Sample home with parking and a bright living area.
+P068,Lahore,Johar Town,Apartment,4500,5,5,14,35900000,Sample home with parking and a bright living area.
+P069,Lahore,Johar Town,House,2200,3,3,28,19800000,Sample home with a balcony and nearby school.
+P070,Islamabad,F-10,House,5000,6,5,13,77100000,Sample home with a balcony and nearby school.
+P071,Islamabad,Bahria Enclave,Apartment,3100,3,2,26,30100000,Sample home with parking and a bright living area.
+P072,Karachi,Clifton,Apartment,3500,4,4,9,36200000,Sample home with a balcony and nearby school.
+P073,Islamabad,Bahria Enclave,House,3600,4,4,13,53700000,Sample home with parking and a bright living area.
+P074,Lahore,Johar Town,House,3400,4,5,17,36200000,Sample home with a balcony and nearby school.
+P075,Islamabad,F-10,House,1000,2,2,4,16300000,Sample home with a balcony and nearby school.
+P076,Lahore,Model Town,House,3400,5,5,24,34800000,Sample home with a balcony and nearby school.
+P077,Lahore,Model Town,Apartment,1000,1,1,23,2000000,Sample home near a park and local shops.
+P078,Islamabad,G-11,House,4600,6,5,30,66900000,Sample home near a park and local shops.
+P079,Karachi,Clifton,House,2000,2,2,21,25600000,Sample home with parking and a bright living area.
+P080,Lahore,Bahria Town,Apartment,1500,3,4,30,10800000,Sample home with parking and a bright living area.
+P081,Karachi,Clifton,House,2400,2,3,0,33900000,Sample home with a balcony and nearby school.
+P082,Islamabad,Bahria Enclave,House,900,2,3,26,9800000,Sample home near a park and local shops.
+P083,Karachi,Clifton,Apartment,4800,6,5,25,48000000,Sample home with parking and a bright living area.
+P084,Lahore,Johar Town,Apartment,900,2,3,10,6800000,Sample home with a balcony and nearby school.
+P085,Lahore,Model Town,House,3200,5,6,28,33600000,Sample home near a park and local shops.
+P086,Islamabad,F-10,Apartment,4400,6,6,14,49900000,Sample home with parking and a bright living area.
+P087,Islamabad,F-10,Apartment,2500,3,2,8,29500000,Sample home with parking and a bright living area.
+P088,Islamabad,F-10,Apartment,2600,3,3,27,26100000,Sample home near a park and local shops.
+P089,Lahore,Model Town,House,2700,4,4,8,31500000,Sample home with parking and a bright living area.
+P090,Karachi,Clifton,House,1000,1,2,13,10200000,Sample home with parking and a bright living area.
+P091,Karachi,Gulshan,Apartment,4600,6,6,14,46300000,Sample home with a balcony and nearby school.
+P092,Islamabad,F-10,House,2400,4,5,11,36800000,Sample home with parking and a bright living area.
+P093,Islamabad,F-10,Apartment,3200,6,6,10,37900000,Sample home with a balcony and nearby school.
+P094,Karachi,North Nazimabad,House,1700,2,1,23,20000000,Sample home with parking and a bright living area.
+P095,Karachi,North Nazimabad,House,1800,4,4,8,24000000,Sample home with parking and a bright living area.
+P096,Lahore,Johar Town,House,1700,2,1,11,14100000,Sample home with a balcony and nearby school.
+P097,Karachi,North Nazimabad,House,2200,2,1,17,25700000,Sample home with a balcony and nearby school.
+P098,Karachi,Clifton,House,4100,6,6,15,57100000,Sample home with a balcony and nearby school.
+P099,Karachi,North Nazimabad,House,2100,3,2,26,25500000,Sample home with parking and a bright living area.
+P100,Islamabad,F-10,House,1400,1,2,30,17200000,Sample home near a park and local shops.
+P101,Karachi,North Nazimabad,House,4000,6,6,19,52500000,Sample home with a balcony and nearby school.
+P102,Lahore,Bahria Town,Apartment,2400,4,4,9,19500000,Sample home with parking and a bright living area.
+P103,Karachi,Gulshan,House,1800,4,3,8,24000000,Sample home with parking and a bright living area.
+P104,Karachi,North Nazimabad,House,500,1,1,22,2600000,Sample home with a balcony and nearby school.
+P105,Lahore,Bahria Town,House,1900,3,4,9,20500000,Sample home near a park and local shops.
+P106,Lahore,Bahria Town,House,3200,4,5,7,34500000,Sample home near a park and local shops.
+P107,Lahore,Bahria Town,House,900,1,1,25,5100000,Sample home with a balcony and nearby school.
+P108,Lahore,Model Town,House,3400,6,6,22,38300000,Sample home with a balcony and nearby school.
+P109,Islamabad,Bahria Enclave,Apartment,3300,4,5,1,41700000,Sample home with a balcony and nearby school.
+P110,Karachi,Gulshan,House,1900,4,5,18,23000000,Sample home with parking and a bright living area.
+P111,Lahore,Bahria Town,House,1600,2,3,20,14100000,Sample home with a balcony and nearby school.
+P112,Islamabad,F-10,Apartment,1000,1,1,13,10000000,Sample home with a balcony and nearby school.
+P113,Islamabad,F-10,House,1500,2,2,22,18400000,Sample home with parking and a bright living area.
+P114,Karachi,Gulshan,Apartment,1000,1,1,10,8600000,Sample home with a balcony and nearby school.
+P115,Islamabad,Bahria Enclave,House,4700,6,6,13,74300000,Sample home with a balcony and nearby school.
+P116,Islamabad,G-11,Apartment,800,1,1,17,7200000,Sample home with a balcony and nearby school.
+P117,Lahore,Model Town,Apartment,1200,1,2,19,7600000,Sample home with parking and a bright living area.
+P118,Karachi,Gulshan,Apartment,1000,1,1,14,6000000,Sample home with parking and a bright living area.
+P119,Karachi,Clifton,Apartment,5000,6,6,22,48200000,Sample home near a park and local shops.
+P120,Lahore,Bahria Town,House,2900,3,4,16,32500000,Sample home near a park and local shops.
+P121,Karachi,Clifton,Apartment,3100,4,5,8,31900000,Sample home with parking and a bright living area.
+P122,Islamabad,F-10,Apartment,1400,2,3,15,13900000,Sample home with a balcony and nearby school.
+P123,Islamabad,F-10,Apartment,3400,5,4,22,38000000,Sample home near a park and local shops.
+P124,Lahore,Bahria Town,Apartment,5000,6,6,21,41500000,Sample home near a park and local shops.
+P125,Lahore,Model Town,House,1300,3,4,10,16000000,Sample home near a park and local shops.
+P126,Islamabad,Bahria Enclave,Apartment,500,2,1,13,2700000,Sample home near a park and local shops.
+P127,Karachi,Clifton,Apartment,2100,3,4,22,18200000,Sample home with parking and a bright living area.
+P128,Islamabad,F-10,Apartment,2500,5,6,28,27300000,Sample home with parking and a bright living area.
+P129,Karachi,Gulshan,House,2000,4,5,29,23300000,Sample home with a balcony and nearby school.
+P130,Karachi,Gulshan,House,3300,4,5,9,44700000,Sample home near a park and local shops.
+P131,Lahore,Bahria Town,House,2300,3,3,13,25100000,Sample home with parking and a bright living area.
+P132,Karachi,Clifton,House,1600,1,2,27,17800000,Sample home with parking and a bright living area.
+P133,Islamabad,F-10,House,3600,6,5,7,56300000,Sample home with parking and a bright living area.
+P134,Karachi,Gulshan,Apartment,2300,4,5,5,24500000,Sample home with a balcony and nearby school.
+P135,Lahore,Model Town,Apartment,4500,6,6,8,37700000,Sample home with a balcony and nearby school.
+P136,Karachi,Clifton,House,2900,5,5,18,37900000,Sample home with parking and a bright living area.
+P137,Lahore,Bahria Town,House,4700,6,6,0,52500000,Sample home near a park and local shops.
+P138,Islamabad,F-10,Apartment,2300,2,3,25,22400000,Sample home near a park and local shops.
+P139,Islamabad,G-11,House,4400,6,6,24,66100000,Sample home with parking and a bright living area.
+P140,Karachi,Clifton,House,2400,3,2,18,27800000,Sample home with parking and a bright living area.
+P141,Karachi,North Nazimabad,House,2300,3,4,13,29900000,Sample home with a balcony and nearby school.
+P142,Islamabad,F-10,Apartment,1500,2,2,30,13600000,Sample home with parking and a bright living area.
+P143,Lahore,Bahria Town,House,3400,4,3,24,36800000,Sample home with parking and a bright living area.
+P144,Lahore,Bahria Town,Apartment,1000,1,1,8,6700000,Sample home near a park and local shops.
+P145,Lahore,Model Town,Apartment,4800,6,6,8,39100000,Sample home near a park and local shops.
+P146,Islamabad,Bahria Enclave,House,3500,4,5,28,49700000,Sample home with a balcony and nearby school.
+P147,Islamabad,Bahria Enclave,House,4600,6,6,26,67300000,Sample home with a balcony and nearby school.
+P148,Karachi,Gulshan,House,700,1,1,15,7400000,Sample home near a park and local shops.
+P149,Karachi,North Nazimabad,House,2900,4,4,21,38100000,Sample home with a balcony and nearby school.
+P150,Islamabad,F-10,House,3100,5,4,26,44900000,Sample home with parking and a bright living area.
+P151,Lahore,Model Town,Apartment,700,2,2,6,3100000,Sample home near a park and local shops.
+P152,Islamabad,F-10,Apartment,3900,6,6,1,49300000,Sample home with a balcony and nearby school.
+P153,Karachi,Gulshan,House,3400,4,5,6,44700000,Sample home near a park and local shops.
+P154,Lahore,Bahria Town,House,1300,3,2,2,14100000,Sample home near a park and local shops.
+P155,Islamabad,G-11,House,1900,3,2,25,26200000,Sample home near a park and local shops.
+P156,Islamabad,G-11,Apartment,1600,1,2,27,14100000,Sample home near a park and local shops.
+P157,Karachi,North Nazimabad,Apartment,2000,4,4,0,22300000,Sample home with a balcony and nearby school.
+P158,Islamabad,F-10,House,900,1,1,24,10300000,Sample home with parking and a bright living area.
+P159,Islamabad,Bahria Enclave,House,3300,6,5,30,47000000,Sample home with parking and a bright living area.
+P160,Lahore,Model Town,Apartment,4600,6,5,15,36700000,Sample home with a balcony and nearby school.
+P161,Islamabad,G-11,House,3600,6,6,2,59100000,Sample home near a park and local shops.
+P162,Karachi,North Nazimabad,Apartment,4400,6,6,17,43000000,Sample home with a balcony and nearby school.
+P163,Lahore,Bahria Town,Apartment,3400,6,6,13,30500000,Sample home with parking and a bright living area.
+P164,Islamabad,F-10,House,3200,5,4,13,50400000,Sample home with a balcony and nearby school.
+P165,Lahore,Johar Town,Apartment,1100,2,2,10,7800000,Sample home with parking and a bright living area.
+P166,Lahore,Johar Town,House,1000,1,1,13,8000000,Sample home with parking and a bright living area.
+P167,Islamabad,Bahria Enclave,Apartment,1300,3,2,18,14900000,Sample home near a park and local shops.
+P168,Lahore,Model Town,Apartment,4700,6,6,1,41100000,Sample home with parking and a bright living area.
+P169,Lahore,Johar Town,Apartment,1100,3,4,6,10800000,Sample home with a balcony and nearby school.
+P170,Islamabad,F-10,Apartment,1200,2,3,7,15100000,Sample home with parking and a bright living area.
+P171,Islamabad,F-10,House,4300,6,6,8,68700000,Sample home with a balcony and nearby school.
+P172,Lahore,Model Town,House,1600,1,2,21,14300000,Sample home near a park and local shops.
+P173,Karachi,Gulshan,House,1000,2,3,6,12500000,Sample home with a balcony and nearby school.
+P174,Lahore,Johar Town,Apartment,4100,6,5,28,32600000,Sample home near a park and local shops.
+P175,Karachi,Clifton,House,4800,6,6,14,62800000,Sample home with a balcony and nearby school.
+P176,Lahore,Johar Town,House,3700,4,4,13,38700000,Sample home with a balcony and nearby school.
+P177,Islamabad,G-11,Apartment,3800,6,6,1,47700000,Sample home near a park and local shops.
+P178,Karachi,Clifton,Apartment,1800,2,2,9,20600000,Sample home near a park and local shops.
+P179,Karachi,North Nazimabad,Apartment,3200,4,3,12,30500000,Sample home with parking and a bright living area.
+P180,Lahore,Johar Town,House,3000,5,4,13,32700000,Sample home with a balcony and nearby school.
+P181,Karachi,Gulshan,Apartment,4100,6,6,12,41300000,Sample home with a balcony and nearby school.
+P182,Karachi,North Nazimabad,Apartment,1500,3,3,26,10700000,Sample home with a balcony and nearby school.
+P183,Karachi,Clifton,Apartment,1100,1,1,18,7700000,Sample home with parking and a bright living area.
+P184,Lahore,Bahria Town,House,2600,3,2,16,27000000,Sample home near a park and local shops.
+P185,Islamabad,G-11,House,2700,4,5,30,39300000,Sample home near a park and local shops.
+P186,Karachi,North Nazimabad,Apartment,1700,1,2,4,14600000,Sample home near a park and local shops.
+P187,Karachi,North Nazimabad,Apartment,3400,6,6,14,33500000,Sample home with parking and a bright living area.
+P188,Islamabad,G-11,Apartment,4500,6,5,14,50300000,Sample home with a balcony and nearby school.
+P189,Lahore,Model Town,Apartment,2200,4,3,11,17100000,Sample home near a park and local shops.
+P190,Karachi,Gulshan,Apartment,2300,2,3,27,18900000,Sample home with parking and a bright living area.
+P191,Islamabad,F-10,Apartment,3400,6,6,30,38000000,Sample home with parking and a bright living area.
+P192,Islamabad,G-11,House,2500,5,5,16,36000000,Sample home near a park and local shops.
+P193,Lahore,Bahria Town,House,2600,5,4,16,27900000,Sample home with a balcony and nearby school.
+P194,Lahore,Model Town,House,2800,4,4,12,30200000,Sample home with a balcony and nearby school.
+P195,Islamabad,F-10,House,4500,6,6,2,71100000,Sample home with a balcony and nearby school.
+P196,Lahore,Johar Town,House,2600,3,4,21,27500000,Sample home with a balcony and nearby school.
+P197,Lahore,Bahria Town,Apartment,1300,3,4,30,8600000,Sample home with a balcony and nearby school.
+P198,Karachi,Clifton,House,4600,6,6,16,61300000,Sample home near a park and local shops.
+P199,Lahore,Johar Town,Apartment,1600,1,1,30,8100000,Sample home near a park and local shops.
+P200,Karachi,North Nazimabad,Apartment,1100,3,4,26,7500000,Sample home with parking and a bright living area.
+P201,Karachi,North Nazimabad,Apartment,4400,5,6,12,44500000,Sample home with parking and a bright living area.
+P202,Karachi,North Nazimabad,Apartment,700,1,1,21,4300000,Sample home near a park and local shops.
+P203,Lahore,Model Town,Apartment,3300,4,5,7,27300000,Sample home near a park and local shops.
+P204,Lahore,Bahria Town,Apartment,3400,5,5,16,29800000,Sample home with a balcony and nearby school.
+P205,Karachi,North Nazimabad,House,4300,5,5,1,57200000,Sample home near a park and local shops.
+P206,Islamabad,F-10,House,2300,2,1,8,32600000,Sample home with parking and a bright living area.
+P207,Karachi,Gulshan,Apartment,1000,1,1,28,5200000,Sample home with a balcony and nearby school.
+P208,Islamabad,G-11,Apartment,2000,3,2,11,22800000,Sample home near a park and local shops.
+P209,Lahore,Model Town,House,5000,6,6,25,53100000,Sample home with parking and a bright living area.
+P210,Karachi,Gulshan,Apartment,3300,6,5,28,31100000,Sample home near a park and local shops.
+P211,Lahore,Model Town,House,1400,3,4,19,13200000,Sample home near a park and local shops.
+P212,Lahore,Bahria Town,House,800,1,1,20,5500000,Sample home with a balcony and nearby school.
+P213,Karachi,North Nazimabad,House,3600,6,6,0,49500000,Sample home near a park and local shops.
+P214,Lahore,Bahria Town,Apartment,500,2,2,7,3000000,Sample home with a balcony and nearby school.
+P215,Karachi,North Nazimabad,House,3800,5,4,30,45400000,Sample home with parking and a bright living area.
+P216,Karachi,Clifton,Apartment,3500,4,5,12,34400000,Sample home with a balcony and nearby school.
+P217,Islamabad,Bahria Enclave,House,2700,3,3,7,41500000,Sample home with parking and a bright living area.
+P218,Lahore,Bahria Town,House,700,1,2,10,4900000,Sample home near a park and local shops.
+P219,Islamabad,F-10,Apartment,4900,6,6,5,59000000,Sample home near a park and local shops.
+P220,Lahore,Model Town,House,700,1,1,10,5900000,Sample home with parking and a bright living area.
+P221,Lahore,Johar Town,Apartment,2100,2,3,6,16700000,Sample home with parking and a bright living area.
+P222,Lahore,Model Town,Apartment,1200,2,2,28,8300000,Sample home with parking and a bright living area.
+P223,Lahore,Bahria Town,Apartment,2600,3,3,22,16200000,Sample home with a balcony and nearby school.
+P224,Karachi,Gulshan,Apartment,1000,1,2,26,5900000,Sample home with parking and a bright living area.
+P225,Lahore,Bahria Town,Apartment,1100,1,1,21,5300000,Sample home with a balcony and nearby school.
+P226,Karachi,Clifton,Apartment,2700,4,3,23,25800000,Sample home with parking and a bright living area.
+P227,Lahore,Bahria Town,Apartment,4500,5,4,21,34700000,Sample home with parking and a bright living area.
+P228,Karachi,Clifton,House,1400,3,4,25,15000000,Sample home near a park and local shops.
+P229,Karachi,North Nazimabad,House,2000,4,4,11,25400000,Sample home near a park and local shops.
+P230,Islamabad,G-11,Apartment,2800,4,4,24,31300000,Sample home with parking and a bright living area.
+P231,Karachi,North Nazimabad,Apartment,3000,4,5,8,30500000,Sample home near a park and local shops.
+P232,Lahore,Model Town,Apartment,4000,5,5,24,31700000,Sample home with parking and a bright living area.
+P233,Lahore,Johar Town,House,4400,6,6,29,46600000,Sample home near a park and local shops.
+P234,Lahore,Bahria Town,House,5000,6,5,25,52700000,Sample home with a balcony and nearby school.
+P235,Islamabad,G-11,Apartment,5000,6,6,17,57600000,Sample home with parking and a bright living area.
+P236,Islamabad,G-11,House,2800,5,4,3,46100000,Sample home near a park and local shops.
+P237,Karachi,North Nazimabad,Apartment,600,1,2,18,2000000,Sample home near a park and local shops.
+P238,Islamabad,Bahria Enclave,House,900,1,1,22,11900000,Sample home with a balcony and nearby school.
+P239,Islamabad,F-10,Apartment,3100,5,4,4,39400000,Sample home with a balcony and nearby school.
+P240,Islamabad,G-11,Apartment,1300,3,4,18,13500000,Sample home near a park and local shops.
+P241,Lahore,Bahria Town,House,1200,3,2,9,13600000,Sample home near a park and local shops.
+P242,Lahore,Bahria Town,Apartment,1000,1,1,20,6000000,Sample home with a balcony and nearby school.
+P243,Karachi,North Nazimabad,Apartment,4400,6,5,16,42600000,Sample home near a park and local shops.
+P244,Karachi,Gulshan,Apartment,4100,5,4,2,41300000,Sample home with parking and a bright living area.
+P245,Islamabad,Bahria Enclave,Apartment,4600,6,6,13,53800000,Sample home with parking and a bright living area.
+P246,Lahore,Model Town,Apartment,3500,4,5,12,28600000,Sample home with a balcony and nearby school.
+P247,Karachi,Gulshan,House,1500,2,2,15,17000000,Sample home with a balcony and nearby school.
+P248,Islamabad,F-10,Apartment,2700,4,3,24,29100000,Sample home with parking and a bright living area.
+P249,Islamabad,G-11,House,2500,3,3,3,39300000,Sample home near a park and local shops.
+P250,Lahore,Johar Town,Apartment,4400,6,5,30,34600000,Sample home with a balcony and nearby school.
+P251,Islamabad,F-10,Apartment,1700,1,1,16,14700000,Sample home near a park and local shops.
+P252,Karachi,North Nazimabad,Apartment,3700,5,4,6,38500000,Sample home with a balcony and nearby school.
+P253,Karachi,Clifton,House,2300,3,4,28,27900000,Sample home with parking and a bright living area.
+P254,Karachi,Clifton,House,3200,4,4,23,38400000,Sample home with a balcony and nearby school.
+P255,Lahore,Johar Town,House,3000,3,4,17,31700000,Sample home with a balcony and nearby school.
+P256,Islamabad,Bahria Enclave,Apartment,4000,6,6,21,47200000,Sample home near a park and local shops.
+P257,Karachi,Gulshan,House,3000,4,4,17,40200000,Sample home with parking and a bright living area.
+P258,Islamabad,G-11,Apartment,3700,4,3,1,43600000,Sample home with parking and a bright living area.
+P259,Lahore,Bahria Town,Apartment,3800,5,4,19,30700000,Sample home with a balcony and nearby school.
+P260,Karachi,Clifton,Apartment,4400,6,6,18,43100000,Sample home with parking and a bright living area.
+P261,Islamabad,Bahria Enclave,Apartment,5000,6,6,15,58700000,Sample home near a park and local shops.
+P262,Lahore,Model Town,Apartment,4900,6,5,19,38600000,Sample home with a balcony and nearby school.
+P263,Islamabad,F-10,House,800,2,2,5,10700000,Sample home near a park and local shops.
+P264,Islamabad,G-11,House,700,2,3,3,11400000,Sample home near a park and local shops.
+P265,Lahore,Bahria Town,Apartment,3100,3,3,22,23300000,Sample home with a balcony and nearby school.
+P266,Islamabad,Bahria Enclave,House,5000,6,6,6,80100000,Sample home with a balcony and nearby school.
+P267,Islamabad,F-10,Apartment,3800,5,5,30,42400000,Sample home with parking and a bright living area.
+P268,Lahore,Johar Town,Apartment,4400,6,5,30,36100000,Sample home with a balcony and nearby school.
+P269,Islamabad,F-10,Apartment,1900,3,3,22,20200000,Sample home with a balcony and nearby school.
+P270,Lahore,Bahria Town,Apartment,2300,2,3,21,18000000,Sample home with a balcony and nearby school.
+P271,Lahore,Model Town,Apartment,1400,2,1,9,11200000,Sample home with parking and a bright living area.
+P272,Lahore,Bahria Town,Apartment,1800,2,3,8,14400000,Sample home with parking and a bright living area.
+P273,Lahore,Bahria Town,House,1100,3,4,18,10800000,Sample home near a park and local shops.
+P274,Islamabad,Bahria Enclave,House,800,1,1,10,11400000,Sample home with a balcony and nearby school.
+P275,Karachi,Clifton,House,500,2,1,13,3900000,Sample home with a balcony and nearby school.
+P276,Islamabad,G-11,House,2300,3,3,20,31200000,Sample home near a park and local shops.
+P277,Islamabad,G-11,House,3900,6,6,27,60800000,Sample home with a balcony and nearby school.
+P278,Karachi,North Nazimabad,House,3000,4,3,29,35000000,Sample home with a balcony and nearby school.
+P279,Karachi,Clifton,House,2400,4,5,3,34300000,Sample home with parking and a bright living area.
+P280,Islamabad,G-11,Apartment,1300,3,3,8,14900000,Sample home near a park and local shops.
+P281,Lahore,Model Town,House,3400,6,6,22,37200000,Sample home with parking and a bright living area.
+P282,Islamabad,F-10,House,1600,3,4,28,23300000,Sample home with a balcony and nearby school.
+P283,Islamabad,F-10,Apartment,1000,1,2,3,12000000,Sample home near a park and local shops.
+P284,Karachi,Clifton,Apartment,2900,3,3,24,26400000,Sample home with a balcony and nearby school.
+P285,Lahore,Model Town,House,2100,4,4,22,21300000,Sample home with a balcony and nearby school.
+P286,Karachi,Clifton,Apartment,4800,6,6,24,48000000,Sample home with parking and a bright living area.
+P287,Karachi,Clifton,Apartment,2800,5,4,7,30400000,Sample home with parking and a bright living area.
+P288,Islamabad,F-10,Apartment,3100,5,6,29,33300000,Sample home with parking and a bright living area.
+P289,Islamabad,Bahria Enclave,House,2000,4,5,27,28700000,Sample home with parking and a bright living area.
+P290,Lahore,Bahria Town,House,4100,5,4,26,40800000,Sample home with parking and a bright living area.
+P291,Karachi,North Nazimabad,House,1500,2,3,14,19000000,Sample home with a balcony and nearby school.
+P292,Karachi,Clifton,Apartment,800,1,1,16,6100000,Sample home with a balcony and nearby school.
+P293,Islamabad,F-10,House,4000,6,6,25,60100000,Sample home near a park and local shops.
+P294,Islamabad,F-10,House,4200,5,4,13,64700000,Sample home with parking and a bright living area.
+P295,Karachi,North Nazimabad,House,900,1,1,9,8900000,Sample home with parking and a bright living area.
+P296,Islamabad,F-10,Apartment,2800,4,4,27,30800000,Sample home with a balcony and nearby school.
+P297,Karachi,Gulshan,House,4600,6,5,5,63500000,Sample home with parking and a bright living area.
+P298,Karachi,North Nazimabad,House,600,1,1,21,4600000,Sample home with parking and a bright living area.
+P299,Lahore,Bahria Town,Apartment,1900,2,2,11,15000000,Sample home near a park and local shops.
+P300,Karachi,Gulshan,Apartment,4400,5,4,6,45400000,Sample home near a park and local shops.
+P301,Islamabad,G-11,House,3300,6,6,22,50800000,Sample home with a balcony and nearby school.
+P302,Lahore,Bahria Town,House,3900,5,4,4,43400000,Sample home with a balcony and nearby school.
+P303,Karachi,Gulshan,Apartment,4100,6,6,26,38700000,Sample home with parking and a bright living area.
+P304,Islamabad,Bahria Enclave,House,3100,4,4,1,50400000,Sample home with parking and a bright living area.
+P305,Islamabad,Bahria Enclave,House,4500,6,6,17,66000000,Sample home with parking and a bright living area.
+P306,Lahore,Model Town,Apartment,4900,6,6,4,42700000,Sample home with a balcony and nearby school.
+P307,Karachi,Gulshan,Apartment,2000,2,2,27,15300000,Sample home with parking and a bright living area.
+P308,Lahore,Johar Town,Apartment,4000,6,5,12,31700000,Sample home with a balcony and nearby school.
+P309,Karachi,Gulshan,Apartment,4600,6,6,27,42800000,Sample home near a park and local shops.
+P310,Lahore,Johar Town,Apartment,4800,6,6,1,43400000,Sample home near a park and local shops.
+P311,Islamabad,G-11,House,3500,4,4,9,54300000,Sample home with parking and a bright living area.
+P312,Karachi,Gulshan,Apartment,2000,4,5,22,18300000,Sample home with a balcony and nearby school.
+P313,Karachi,Clifton,Apartment,2300,3,3,17,20600000,Sample home with parking and a bright living area.
+P314,Lahore,Model Town,Apartment,1100,3,3,24,5700000,Sample home near a park and local shops.
+P315,Lahore,Model Town,Apartment,3100,3,4,27,22300000,Sample home with parking and a bright living area.
+P316,Islamabad,G-11,Apartment,2300,2,1,10,26100000,Sample home with a balcony and nearby school.
+P317,Islamabad,F-10,House,3600,6,6,30,52900000,Sample home with parking and a bright living area.
+P318,Islamabad,F-10,Apartment,3400,4,5,25,36200000,Sample home near a park and local shops.
+P319,Karachi,Gulshan,Apartment,1600,3,4,30,12600000,Sample home with parking and a bright living area.
+P320,Karachi,Gulshan,House,3100,3,4,7,41100000,Sample home with parking and a bright living area.
+P321,Karachi,North Nazimabad,House,1800,4,4,11,25600000,Sample home with a balcony and nearby school.
+P322,Islamabad,F-10,Apartment,600,1,2,17,5300000,Sample home near a park and local shops.
+P323,Karachi,Gulshan,Apartment,3900,6,5,16,39500000,Sample home near a park and local shops.
+P324,Karachi,Clifton,House,2000,2,3,16,22800000,Sample home with a balcony and nearby school.
+P325,Lahore,Johar Town,Apartment,1000,1,1,14,2800000,Sample home with a balcony and nearby school.
+P326,Islamabad,F-10,House,4600,6,5,2,71700000,Sample home with a balcony and nearby school.
+P327,Lahore,Model Town,Apartment,800,2,1,22,4300000,Sample home with parking and a bright living area.
+P328,Lahore,Bahria Town,House,3800,4,3,6,43200000,Sample home with parking and a bright living area.
+P329,Lahore,Bahria Town,Apartment,700,1,2,29,2000000,Sample home near a park and local shops.
+P330,Karachi,North Nazimabad,Apartment,600,1,2,4,7500000,Sample home with a balcony and nearby school.
+P331,Karachi,North Nazimabad,Apartment,1500,3,2,18,13800000,Sample home with a balcony and nearby school.
+P332,Lahore,Bahria Town,House,4900,6,5,16,52200000,Sample home with a balcony and nearby school.
+P333,Karachi,North Nazimabad,House,3200,4,3,10,40700000,Sample home with a balcony and nearby school.
+P334,Lahore,Johar Town,House,4500,6,6,15,48400000,Sample home with a balcony and nearby school.
+P335,Islamabad,Bahria Enclave,Apartment,3200,4,5,18,35800000,Sample home with a balcony and nearby school.
+P336,Karachi,North Nazimabad,House,1000,1,1,12,11000000,Sample home with parking and a bright living area.
+P337,Karachi,Clifton,Apartment,2500,4,3,2,27400000,Sample home with a balcony and nearby school.
+P338,Karachi,North Nazimabad,House,1000,1,1,14,11100000,Sample home with parking and a bright living area.
+P339,Islamabad,F-10,Apartment,1100,1,1,11,9700000,Sample home with a balcony and nearby school.
+P340,Karachi,North Nazimabad,Apartment,3100,4,3,23,27900000,Sample home near a park and local shops.
+P341,Islamabad,G-11,House,4800,6,5,4,75700000,Sample home near a park and local shops.
+P342,Karachi,Gulshan,Apartment,2200,3,3,15,21600000,Sample home with a balcony and nearby school.
+P343,Lahore,Model Town,House,4500,6,6,19,48900000,Sample home near a park and local shops.
+P344,Lahore,Model Town,Apartment,4400,6,6,14,37300000,Sample home with a balcony and nearby school.
+P345,Islamabad,G-11,House,2400,3,4,30,32700000,Sample home with a balcony and nearby school.
+P346,Lahore,Bahria Town,Apartment,4900,6,6,30,36600000,Sample home near a park and local shops.
+P347,Lahore,Bahria Town,Apartment,2200,3,3,3,19800000,Sample home near a park and local shops.
+P348,Islamabad,F-10,House,3400,6,5,14,52600000,Sample home with parking and a bright living area.
+P349,Karachi,Gulshan,Apartment,4800,6,5,20,46500000,Sample home with parking and a bright living area.
+P350,Lahore,Bahria Town,Apartment,900,1,2,15,6200000,Sample home with a balcony and nearby school.
+P351,Islamabad,Bahria Enclave,Apartment,3900,5,5,22,44900000,Sample home near a park and local shops.
+P352,Karachi,North Nazimabad,House,4700,6,6,5,62900000,Sample home with parking and a bright living area.
+P353,Karachi,North Nazimabad,Apartment,2600,4,3,0,28400000,Sample home with parking and a bright living area.
+P354,Islamabad,Bahria Enclave,House,3300,5,5,14,51400000,Sample home with parking and a bright living area.
+P355,Islamabad,G-11,House,2700,3,3,3,41600000,Sample home near a park and local shops.
+P356,Islamabad,G-11,House,2700,4,4,14,43700000,Sample home with parking and a bright living area.
+P357,Lahore,Model Town,Apartment,3500,4,4,23,26200000,Sample home near a park and local shops.
+P358,Islamabad,Bahria Enclave,House,600,1,2,3,8400000,Sample home near a park and local shops.
+P359,Islamabad,F-10,House,3800,4,5,5,58900000,Sample home near a park and local shops.
+P360,Lahore,Model Town,House,1600,3,4,13,18100000,Sample home near a park and local shops.
+P361,Islamabad,F-10,House,3300,6,6,12,52800000,Sample home with parking and a bright living area.
+P362,Karachi,Gulshan,House,3900,5,5,10,52000000,Sample home with a balcony and nearby school.
+P363,Karachi,North Nazimabad,Apartment,4700,6,6,30,43200000,Sample home with a balcony and nearby school.
+P364,Islamabad,G-11,House,2700,4,4,19,39000000,Sample home with parking and a bright living area.
+P365,Islamabad,F-10,Apartment,4400,6,5,21,50500000,Sample home near a park and local shops.
+P366,Karachi,Clifton,Apartment,4900,6,6,12,49800000,Sample home with parking and a bright living area.
+P367,Karachi,Gulshan,Apartment,3200,4,4,20,27500000,Sample home with parking and a bright living area.
+P368,Karachi,Clifton,Apartment,2300,2,1,10,21000000,Sample home with parking and a bright living area.
+P369,Karachi,North Nazimabad,Apartment,500,1,1,6,5700000,Sample home with parking and a bright living area.
+P370,Lahore,Model Town,Apartment,4800,6,6,22,35700000,Sample home with a balcony and nearby school.
+P371,Karachi,Clifton,House,4100,5,4,9,55300000,Sample home near a park and local shops.
+P372,Lahore,Johar Town,Apartment,4000,6,5,18,32900000,Sample home with a balcony and nearby school.
+P373,Islamabad,G-11,Apartment,3900,5,6,14,41900000,Sample home with parking and a bright living area.
+P374,Islamabad,F-10,House,2400,2,2,8,35200000,Sample home near a park and local shops.
+P375,Lahore,Bahria Town,House,2000,2,3,18,18800000,Sample home with parking and a bright living area.
+P376,Lahore,Johar Town,House,4400,5,4,26,43200000,Sample home near a park and local shops.
+P377,Islamabad,F-10,Apartment,3900,6,6,17,47000000,Sample home with a balcony and nearby school.
+P378,Islamabad,F-10,Apartment,3700,6,5,4,48100000,Sample home near a park and local shops.
+P379,Lahore,Bahria Town,House,4900,6,5,4,54900000,Sample home with a balcony and nearby school.
+P380,Lahore,Model Town,House,4100,6,6,20,42000000,Sample home with a balcony and nearby school.
+P381,Lahore,Model Town,House,4500,5,5,16,48500000,Sample home with a balcony and nearby school.
+P382,Lahore,Bahria Town,Apartment,4200,5,6,2,35000000,Sample home with a balcony and nearby school.
+P383,Islamabad,F-10,Apartment,900,2,2,6,12700000,Sample home with a balcony and nearby school.
+P384,Lahore,Bahria Town,Apartment,2600,5,6,4,23300000,Sample home with a balcony and nearby school.
+P385,Lahore,Johar Town,House,700,1,2,25,4000000,Sample home with a balcony and nearby school.
+P386,Lahore,Johar Town,House,3200,4,5,29,31600000,Sample home with parking and a bright living area.
+P387,Lahore,Bahria Town,House,2200,2,3,11,23000000,Sample home near a park and local shops.
+P388,Karachi,Gulshan,Apartment,4500,6,6,22,44900000,Sample home with a balcony and nearby school.
+P389,Islamabad,G-11,House,5000,6,5,6,77900000,Sample home with parking and a bright living area.
+P390,Islamabad,G-11,Apartment,500,1,2,10,4900000,Sample home with a balcony and nearby school.
+P391,Islamabad,G-11,House,3500,4,3,12,55200000,Sample home with a balcony and nearby school.
+P392,Lahore,Bahria Town,Apartment,1300,2,1,20,9100000,Sample home near a park and local shops.
+P393,Karachi,North Nazimabad,House,4400,6,5,14,57700000,Sample home near a park and local shops.
+P394,Lahore,Johar Town,Apartment,1800,2,1,4,15500000,Sample home with parking and a bright living area.
+P395,Islamabad,G-11,Apartment,2700,4,4,25,29500000,Sample home near a park and local shops.
+P396,Islamabad,F-10,Apartment,4900,6,6,28,55500000,Sample home near a park and local shops.
+P397,Islamabad,G-11,House,3000,4,5,1,48600000,Sample home with a balcony and nearby school.
+P398,Lahore,Johar Town,House,2000,3,4,19,18100000,Sample home with parking and a bright living area.
+P399,Karachi,North Nazimabad,Apartment,2500,3,3,27,22100000,Sample home with parking and a bright living area.
+P400,Karachi,Gulshan,Apartment,900,1,2,2,8200000,Sample home with a balcony and nearby school.
+P401,Karachi,Clifton,House,800,1,2,9,8600000,Sample home with a balcony and nearby school.
+P402,Islamabad,Bahria Enclave,Apartment,1000,2,3,17,8900000,Sample home near a park and local shops.
+P403,Lahore,Bahria Town,House,2400,2,3,29,22500000,Sample home with a balcony and nearby school.
+P404,Lahore,Johar Town,House,2400,4,4,23,26300000,Sample home near a park and local shops.
+P405,Karachi,North Nazimabad,House,3200,4,4,19,39800000,Sample home with parking and a bright living area.
+P406,Islamabad,Bahria Enclave,House,1200,1,2,4,17700000,Sample home near a park and local shops.
+P407,Karachi,Clifton,Apartment,2700,5,6,25,25700000,Sample home near a park and local shops.
+P408,Islamabad,F-10,Apartment,1200,1,1,25,9000000,Sample home with a balcony and nearby school.
+P409,Islamabad,F-10,House,2100,4,5,20,32300000,Sample home near a park and local shops.
+P410,Lahore,Johar Town,House,2800,3,3,24,28200000,Sample home with parking and a bright living area.
+P411,Islamabad,G-11,House,1900,4,5,0,34000000,Sample home near a park and local shops.
+P412,Lahore,Johar Town,Apartment,2900,3,2,29,20500000,Sample home with parking and a bright living area.
+P413,Islamabad,G-11,Apartment,1900,3,2,13,22000000,Sample home with parking and a bright living area.
+P414,Lahore,Johar Town,House,3700,6,5,5,41900000,Sample home with parking and a bright living area.
+P415,Karachi,North Nazimabad,Apartment,900,1,1,24,5700000,Sample home with a balcony and nearby school.
+P416,Karachi,Clifton,Apartment,1700,2,3,25,12600000,Sample home with parking and a bright living area.
+P417,Islamabad,Bahria Enclave,House,3400,5,6,15,54500000,Sample home with parking and a bright living area.
+P418,Karachi,North Nazimabad,House,500,1,1,7,5900000,Sample home with a balcony and nearby school.
+P419,Islamabad,G-11,House,2600,3,4,12,40600000,Sample home near a park and local shops.
+P420,Islamabad,Bahria Enclave,House,3100,4,3,4,47200000,Sample home with a balcony and nearby school.
+P421,Karachi,North Nazimabad,House,1900,4,4,22,24400000,Sample home near a park and local shops.
+P422,Islamabad,F-10,House,3700,4,5,26,53500000,Sample home near a park and local shops.
+P423,Islamabad,F-10,House,3200,6,5,7,50500000,Sample home with parking and a bright living area.
+P424,Islamabad,G-11,Apartment,2500,4,4,7,32200000,Sample home near a park and local shops.
+P425,Karachi,North Nazimabad,House,1400,1,1,14,15000000,Sample home with a balcony and nearby school.
+P426,Karachi,Gulshan,Apartment,2400,3,3,27,20700000,Sample home near a park and local shops.
+P427,Karachi,Gulshan,Apartment,5000,6,6,1,52800000,Sample home near a park and local shops.
+P428,Islamabad,Bahria Enclave,House,2700,4,5,1,46000000,Sample home with a balcony and nearby school.
+P429,Lahore,Model Town,House,600,1,1,17,4000000,Sample home near a park and local shops.
+P430,Karachi,Gulshan,House,500,1,1,4,5500000,Sample home with a balcony and nearby school.
+P431,Lahore,Johar Town,House,4200,6,6,29,43800000,Sample home near a park and local shops.
+P432,Islamabad,G-11,Apartment,1300,1,1,3,14700000,Sample home with a balcony and nearby school.
+P433,Karachi,Clifton,House,4100,6,6,12,53700000,Sample home near a park and local shops.
+P434,Lahore,Johar Town,House,1600,2,2,14,15900000,Sample home near a park and local shops.
+P435,Islamabad,G-11,House,4600,6,6,13,72400000,Sample home with a balcony and nearby school.
+P436,Lahore,Bahria Town,House,3100,3,4,28,29300000,Sample home near a park and local shops.
+P437,Islamabad,Bahria Enclave,House,2900,5,5,15,43300000,Sample home with parking and a bright living area.
+P438,Lahore,Bahria Town,Apartment,2200,2,1,10,16600000,Sample home near a park and local shops.
+P439,Karachi,Gulshan,Apartment,800,1,2,11,7100000,Sample home near a park and local shops.
+P440,Karachi,Gulshan,House,2200,4,5,1,26400000,Sample home with parking and a bright living area.
+P441,Lahore,Model Town,Apartment,1600,1,1,18,9400000,Sample home with parking and a bright living area.
+P442,Karachi,Gulshan,Apartment,4100,6,5,18,42200000,Sample home with a balcony and nearby school.
+P443,Islamabad,G-11,Apartment,1600,2,1,2,20500000,Sample home with parking and a bright living area.
+P444,Lahore,Johar Town,House,2600,5,4,25,27000000,Sample home with a balcony and nearby school.
+P445,Islamabad,G-11,House,2500,3,2,4,36700000,Sample home with parking and a bright living area.
+P446,Lahore,Bahria Town,House,2800,5,6,12,29900000,Sample home near a park and local shops.
+P447,Lahore,Model Town,Apartment,2500,3,2,23,19700000,Sample home with parking and a bright living area.
+P448,Lahore,Bahria Town,House,5000,6,6,28,51700000,Sample home with a balcony and nearby school.
+P449,Karachi,Gulshan,House,2900,4,5,22,36200000,Sample home with parking and a bright living area.
+P450,Islamabad,F-10,Apartment,4100,5,4,19,47100000,Sample home with parking and a bright living area.

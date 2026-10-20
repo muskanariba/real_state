@@ -1,0 +1,20 @@
+Dataset and scope
+All properties in this application are fictional sample listings created for a student assignment. Prices are in Pakistani rupees (PKR). The data does not represent current market prices, verified properties or real sellers. The three sample cities are Karachi, Lahore and Islamabad. Areas are measured in square feet. The dataset includes House and Apartment property types.
+
+Price prediction
+The application predicts a sample property's price using a Random Forest regression model. Inputs are city, property type, area in square feet, bedrooms, bathrooms and age in years. The dataset is split into 80 percent training and 20 percent test rows using a fixed random seed. Test MAE is mean absolute prediction error in PKR; lower is better. Test R-squared compares predictions with a constant mean baseline; higher is generally better and it can be negative. These scores measure performance on synthetic sample data, not accuracy in a real housing market. The final model is fitted on all sample rows after test evaluation.
+
+Property recommendations
+Recommendations first require the selected city, a price at or below the user's maximum budget and at least the requested number of bedrooms. Property type is optional. Eligible properties are ranked by closeness to the requested area and bedroom count using scaled numerical distance. If nothing matches, the app returns no results and asks the user to adjust filters. The app does not silently exceed the budget. Recommendations are sample matches, not investment advice.
+
+Property analysis
+The dashboard shows sample listing count, average price, median price and average price per square foot. City averages describe only the listings in this sample dataset. Price per square foot is calculated by dividing the asking price by the property's area. The average of these ratios may differ from total prices divided by total areas. The dashboard also compares average house and apartment prices and shows bedroom counts.
+
+Understanding a listing
+A property card shows its fictional listing ID, city, neighbourhood, property type, area, bedrooms, bathrooms, age and sample asking price. Nearby facilities are fictional descriptive attributes. Use listing IDs such as P001 when asking the assistant about a particular listing. A listing's stated asking price is different from the ML estimate for its features.
+
+RAG assistant
+Retrieval-Augmented Generation retrieves relevant information before asking a language model to generate an answer. This application uses TF-IDF text vectors and cosine similarity to retrieve chunks from this knowledge file and the sample property records. This is local keyword-based retrieval, not a neural embedding database. The top relevant chunks and the user's question are passed to a model hosted on Groq. The assistant should cite numbered context sources and acknowledge when the supplied information is insufficient. It has no live internet or live market feed.
+
+Buying preparation
+For this educational demo, useful comparison fields are city, neighbourhood, area, bedrooms, bathrooms, age and sample asking price. Real property purchases need independent verification of listing details, ownership documents, condition and local requirements. This demo cannot verify ownership, taxes, legal eligibility or future returns.
